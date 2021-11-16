@@ -1,0 +1,78 @@
+.page-title {
+  background-color: #ff4c00;
+  transform: skew(-20deg);
+}
+
+.page-league-box {
+  background-color: #23262b;
+  width: 220px;
+  transform: skew(-20deg);
+  text-align: center;
+  padding: 30px 20px 20px;
+  height: 200px;
+}
+.league-img {
+  height: 170px;
+  padding: 20px;
+}
+.team-img {
+  height: 33px;
+  width: 50px;
+}
+
+.league-score-box {
+  background-color: #181a1d;
+  transform: skew(-20deg);
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.league-score-box-second {
+  background-color: #181a1d;
+  transform: skew(-20deg);
+  margin-right: 70px;
+  float: right;
+}
+.location {
+  transform: skew(-20deg);
+}
+.team-name-box {
+  background-color: black;
+}
+
+.team-box {
+  background-color: #23262b;
+  display: inline;
+  width: 46%;
+}
+
+.overlay-page {
+  padding: 0 90px;
+}
+.page-container {
+  height: 100vh;
+}
+.page-league-right {
+  top: -13px;
+  width: 75%;
+  left: 25%;
+}
+
+.page-title {
+  background-color: "orange";
+  display: inline-block;
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.name-span-text{
+  font-size: 20px;
+  color: white;
+}
+
+.score-font{
+  font-size: 28px;
+  font-weight: bold;
+}
